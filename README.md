@@ -4,7 +4,7 @@
 This project was developed as a project for Computational complexity theory course.
 It also has unit tests (you can see them work if you watch the video)
 
-## Prodject
+## Project
 This algoritm was implemented using Swift, iOS mobile development programming language. 
 It is not the best choise for implementing algorithms, since algorithms are not Apps.
 I used playgroud to run it efficiently. Sadly swift can be only compiled using Mac OS.
